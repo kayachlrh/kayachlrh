@@ -1,6 +1,6 @@
 <div align=center>
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=F8E0F1&height=120&section=footer&text=👐🏻안녕%20환영해👐🏻&fontColor=29088A&animation=twinkling&fontSize=50&" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=F8E0F1&height=120&section=footer&text=👐🏻안녕👐🏻&fontColor=29088A&animation=twinkling&fontSize=40&" />
 <br/><br/><br/><br/><br/>
 
 <!--
